@@ -1,4 +1,4 @@
-![head.png](https://github.com/Luiscastillo0305/LuisCastillo0305//FigureBed/master/img/readme-bottom1.png)
+![head.png](https://github.com/Luiscastillo0305/LuisCastillo0305/blob/master/readme-bottom1.png?raw=true)
 
 
 Hi there, thanks for stopping by, this is **LUIS CASTILLO*.
