@@ -1,16 +1,38 @@
-### Hi there 👋
+![head.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-top.png)
 
-<!--
-**Luiscastillo0305/LuisCastillo0305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there, thanks for stopping by, this is **LUIS CASTILLO*.
 
-Here are some ideas to get you started:
+<img align='right' src="https://github.com/Luiscastillo0305/LuisCastillo0305/blob/master/Bancario.gif" width="230">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const Luis = {
+    pronouns: "He" | "Him",
+    askMeAbout: ["Cibersecurity", "techology", "Programming", "Student"],
+    events [ "HackMicrosoft"],
+    languagues [ "English", "Spanish", "French"],
+    areas: ["IoT", "Cibersecurity", "Networks"],
+    technologies: {
+        frontEnd: {
+            js: ["Vue", "React", "Angular"],
+            css: ["bootstrap", "sass"]
+        },
+        backEnd: ["Java", "PHP", "C++", "C#", "Python"],
+        databases: ["MySql"],
+    }
+};
+```
+
+![iCharles's github stats](https://github-readme-stats.vercel.app/api?username=LuisCastillo0305&hide=contribs,prs&count_private=true&show_icons=true)
+
+<a href="https://github.com/LuisCastillo0305">
+  <img src="https://img.shields.io/github/followers/LuisCastillo0305">
+</a>
+<a href="https://github.com/LuisCastillo0305">
+   <img src="https://komarev.com/ghpvc/?username=LuisCastillo0305">
+</a>
+
+![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png)
+
+---
+
+⭐️ From [@LuisCastillo0305](https://github.com/LuisCastillo0305)
